@@ -1,4 +1,7 @@
 # test-project
+```
+This project demonstrates how to create a new vue.js project.
+```
 
 ## Project setup
 ```
